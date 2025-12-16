@@ -1,9 +1,14 @@
-👋 Hi, I'm Divyanshu Gupta  
+<img src="WhatsApp Image 2024-12-31 at 17.48.01_13c41377.jpg" width="150" align="left" />
+
+👋 Hi, I'm **Divyanshu Gupta**  
 
 🚀 Full Stack Developer | Python Developer | MCA (AI & Full Stack)
 
 I’m a passionate developer who enjoys building real-world, scalable web applications.  
 I focus on writing clean code, solving problems, and continuously learning new technologies.
+
+<br clear="left"/>
+
 
 ---
 
